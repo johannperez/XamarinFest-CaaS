@@ -1,0 +1,3 @@
+﻿This is just a test application to show bot builiding in Xamarin Fest (Montevideo).
+
+Information entered might be saved for test purposes.
